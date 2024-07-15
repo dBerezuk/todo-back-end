@@ -33,11 +33,17 @@ yarn
 Create an .env file, and in this form, add the data there, where it is empty, enter your data:
 
 APP_PORT=3002
+
 APP_CLIENT_URL=
+
 APP_DEV=false
+
 APP_KEY=
+
 APP_DB_USERNAME=
+
 APP_DB_PASSWORD=
+
 APP_DB_NAME=
 
 Using mongoDB database.
