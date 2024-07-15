@@ -68,4 +68,4 @@ yarn dev
 
 ### Step 4: Open the Application
 
-Once the server is running, open your browser and navigate to: [http://localhost:3002](http://localhost:3002)
+After starting the server, you can use the api of this back-end application: [http://localhost:3002](http://localhost:3002)
